@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(12, 200, 224, 0.644);
+    color: rgba(255, 255, 255, 0.9);
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+button {
+    padding: 5px 20px;
+    background-color: rgb(125, 241, 15);
+    color: rgba(255, 255, 255, 0.9);
+    border-style: none;
+}
+input {
+    height: 20px;
+}
